@@ -1,5 +1,5 @@
 # Connect Four - AI Player
-I worked on this project as part of the Foundations of Artificial Intelligence class at Northeastern, Spring 2023. We were tasked with creating a Connect Four AI for a class-wide competition using MinMax and whatever other enhancements we would find effective. The competition didn't materialize, but it was a fun project nonetheless.
+I worked on this project as part of the Foundations of Artificial Intelligence class at Northeastern, Spring 2023. We were tasked with creating a Connect Four AI for a class-wide competition using MinMax and whatever enhancements we would find effective. The competition didn't materialize, but it was a fun project nonetheless.
 
 My implementation uses a alpha/beta pruning, a transposition table, iterative deepening, and quiescence search.
 
